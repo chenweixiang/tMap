@@ -25,3 +25,15 @@ Python轻松实现地图可视化(附详细源码) == pyecharts、folium
 https://blog.csdn.net/qq_46614154/article/details/106255835
 
 
+4. 注意事项
+
+基于开源库
+
+
+如何开发一个地图导航系统
+https://blog.csdn.net/haochajin/article/details/100017864
+
+https://osmcode.org/
+
+高德地图开发
+https://lbs.amap.com/api/javascript-api/summary
